@@ -2,4 +2,4 @@
 
 ### 你好，世界 👋
 
-- :about: a rookie engineer of javascript
+- :orange_book: a rookie engineer of javascript
